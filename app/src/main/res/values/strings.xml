@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">B5EventApp</string>
+
+    <string name="screen_on">Screen On\n</string>
+    <string name="screen_off">Screen Off</string>
+    <string name="power_connected">Power Connected</string>
+    <string name="power_disconnected">Power Disconnected</string>
+    <string name="device_storage_low">Device storage low</string>
+    <string name="airplane_mode_changed">Plane</string>
+    <string name="battery_ok">Battery ok</string>
+    <string name="battery_low">Battery Low</string>
+    <string name="action_shutdown">Shut Down</string>
+    <string name="action_timezone_changed">Time zone</string>
+    <string name="action_time_changed">Time changed</string>
+    <string name="action_date_changed">Data changed</string>
+</resources>
